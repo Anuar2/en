@@ -1,10 +1,3 @@
-//
-//  EditProfileViewController.swift
-//  Enactus
-//
-//  Created by Dinmukhamed on 30.04.2023.
-//
-
 import UIKit
 
 final class EditProfileViewController: UIViewController {

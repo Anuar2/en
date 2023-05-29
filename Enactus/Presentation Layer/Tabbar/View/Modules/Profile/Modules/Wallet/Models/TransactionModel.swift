@@ -1,3 +1,5 @@
+import Foundation
+
 struct TransactionModel: Codable {
     var id: Int
     let messageText: String

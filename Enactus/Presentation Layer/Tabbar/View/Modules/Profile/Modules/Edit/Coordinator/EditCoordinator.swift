@@ -1,10 +1,3 @@
-//
-//  EditCoordinator.swift
-//  Enactus
-//
-//  Created by Dinmukhamed on 02.05.2023.
-//
-
 import UIKit
 
 final class EditCoordinator: BaseCoordinator {
