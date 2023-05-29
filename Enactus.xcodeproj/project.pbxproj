@@ -1321,7 +1321,6 @@
 		7097914B2A0A1F47006FBC4E /* View */ = {
 			isa = PBXGroup;
 			children = (
-				709791682A0A6F63006FBC4E /* ViewModel */,
 				709791672A0A6F5F006FBC4E /* View */,
 				709791662A0A6F57006FBC4E /* Controller */,
 			);
@@ -1413,13 +1412,6 @@
 				7097916B2A0A743E006FBC4E /* PaymentTextField.swift */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		709791682A0A6F63006FBC4E /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		7097916F2A0A9AC5006FBC4E /* Controller */ = {

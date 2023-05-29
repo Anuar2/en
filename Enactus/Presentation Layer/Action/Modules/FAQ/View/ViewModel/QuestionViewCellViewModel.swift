@@ -1,3 +1,5 @@
+import Foundation
+
 protocol QuestionViewModelProtocol {
     var questions: [QuestionModel] { get set }
 }

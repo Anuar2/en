@@ -6,6 +6,7 @@ extension CreditDetailController {
         }
         
         enum Row {
+            
         }
         
         let section: Section
