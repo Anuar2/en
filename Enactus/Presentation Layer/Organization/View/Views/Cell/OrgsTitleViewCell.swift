@@ -1,4 +1,3 @@
-import UIKit
 import SnapKit
 
 final class OrgsTitleViewCell: UITableViewCell {
