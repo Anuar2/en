@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Enactus
-//
-//  Created by Dinmukhamed on 14.03.2023.
-//
-
 import UIKit
 
 @main

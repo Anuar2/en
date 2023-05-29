@@ -1,10 +1,3 @@
-//
-//  Authorization Service.swift
-//  Enactus
-//
-//  Created by Dinmukhamed on 23.04.2023.
-//
-
 import Foundation
 
 enum AuthorizationPath {

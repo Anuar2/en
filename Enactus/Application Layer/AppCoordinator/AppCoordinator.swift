@@ -1,10 +1,3 @@
-//
-//  AppCoordinator.swift
-//  Enactus
-//
-//  Created by Dinmukhamed on 27.03.2023.
-//
-
 import Foundation
 import UIKit
 

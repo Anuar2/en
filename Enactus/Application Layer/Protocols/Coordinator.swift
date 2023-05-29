@@ -1,10 +1,3 @@
-//
-//  Coordinator.swift
-//  Enactus
-//
-//  Created by Dinmukhamed on 27.03.2023.
-//
-
 import Foundation
 
 protocol Coordinator: AnyObject {
