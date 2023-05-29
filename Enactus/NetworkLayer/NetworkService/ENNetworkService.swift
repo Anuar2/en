@@ -126,10 +126,8 @@ final class ENNetworkService: ENNetworkServiceProtocol {
             case .success(let data):
                 do {
                     guard let data = data else {
-                        print("nosir")
                         return
                     }
-                    print("yessir")
                    let result = try JSONDecoder().decode(RegisterResponse.self, from: data)
                     comp(result)
                 } catch {
