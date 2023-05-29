@@ -1,5 +1,3 @@
-import Foundation
-
 protocol Coordinator: AnyObject {
     func start()
     func coordinate(to coordinate: Coordinator)

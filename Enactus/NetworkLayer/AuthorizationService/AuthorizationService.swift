@@ -1,5 +1,3 @@
-import Foundation
-
 enum AuthorizationPath {
     case signIn
     case signUp
