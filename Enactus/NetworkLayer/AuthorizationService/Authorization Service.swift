@@ -73,21 +73,17 @@ final class AuthorizationService {
         networkService.postLogin(param: authorizationModel) { [weak self] result in
             self?.accessToken = result?.token.original.accessToken ?? ""
             self?.getProfileInfo()
-            print(self?.accessToken)
-
         }
     }
     
     func sendCode() {
         networkService.sendCode(param: authorizationModel.email) { [weak self] result in
             self?.correctCode = result?.code.code ?? ""
-            print(self?.correctCode)
         }
     }
     
     func resetPassword() {
         networkService.resetPassword(param: authorizationModel) { [weak self] result in
-
         }
     }
     
