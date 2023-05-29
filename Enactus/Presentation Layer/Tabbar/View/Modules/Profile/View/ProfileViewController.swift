@@ -131,7 +131,7 @@ final class ProfileViewController: UIViewController {
         case 1:
             present(signOutAlert, animated: true)
         case 2:
-            print("Otmena 667") 
+            print("gg") 
         default:
             return
         }
